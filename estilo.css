@@ -26,6 +26,13 @@ div#form{
     justify-content: center;
     align-items: center;
 }
+div#saida{
+    margin-top: 50px;
+    font-family: helvetica;
+    font-size: 15pt;
+    color: #171718;
+    background: #04694259;
+}
 div#rodape{
     position: absolute;
     width: 100%;
